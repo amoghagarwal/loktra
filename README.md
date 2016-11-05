@@ -8,4 +8,4 @@ Steps for running shopping.py:
 
 Steps for running reverse_hash:
 
-1. python reverse_hash (input has to be given in code)
+1. python reverse_hash.py (input has to be given in code)
