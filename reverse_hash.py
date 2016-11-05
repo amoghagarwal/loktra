@@ -18,11 +18,3 @@ def reverse_hash(h):
     return word
 
 print reverse_hash(680131659347)
-
-0 1 2 3 4 5 6 7 8
-0 0 0 1 0 0 0 0 0
-0 0 0 0 0 0 1 0 0
-
-current
-maxi
-mini
